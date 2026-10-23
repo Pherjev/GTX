@@ -1,0 +1,7 @@
+torch
+torchvision
+numpy
+pyarrow
+pillow
+open_clip_torch
+transformers
